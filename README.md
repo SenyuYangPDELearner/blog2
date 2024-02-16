@@ -27,7 +27,7 @@ zoom: 1;
     </script>
 </head>
 <div class="bjimg"></div>
-#  Polynomial identity lemma: 如何匹配两个多项式
+# 有限域的Nikodym猜想：组合学的多项式方法一瞥
 
 <br/>
 [<font size="3">少女祈祷中...</font>](https://senyuyangpdelearner.github.io/)
