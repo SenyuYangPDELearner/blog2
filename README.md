@@ -8,7 +8,7 @@ height:100%;
 min-width: 1000px;
 z-index:-10;
 zoom: 1;
-  background-image: url(https://wallpapercave.com/wp/wp2350843.png);
+  background-image: url(https://mathinstitutes.org/uploads/2021/07/images/12424_highlight_40.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center 0;
