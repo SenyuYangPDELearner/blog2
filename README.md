@@ -30,7 +30,7 @@ zoom: 1;
 
 # 组合学的多项式方法：有限域Kakeya猜想 
 
-<font size="2" color="grey">发布于 2024.2.19.</font> <br/>
+<font size="2" color="grey">发布于 2024.2.19</font> <br/>
 Kakeya猜想是目前数学界最重要也是最困难的问题之一，横跨调和分析，加性组合，几何测度论，解析数论等诸多领域，过去五十年里Fefferman, Bourgain, Wolff, Tao, Guth等顶尖学者们为她倾尽心血. Kakeya猜想建立在欧氏空间$\mathbb{R}^n$上，而Wolff在1995年提出离散的有限域版本，以期为原版提供线索. 此后包括Bourgain, Tao等人数学家动用分析，组合和数论中相当艰深的工具做了大量工作，始终与猜想的完全解决隔着一层窗户纸. 人们据此相信，有限域版本和原版的难度相差无几. <br/>
 
 直到2009年，理论计算机科学家[Dvir](https://www.cs.princeton.edu/~zdvir/)的论文[1]横空出世. Dvir仅仅运用简单的线性代数和多项式理论便干净利落地解决了**有限域Kakeya猜想**，震惊了数学界. 论文的核心部分经不断发展形成了所谓的**多项式方法**(polynomial method)，如今成为组合，分析乃至编码理论的重要技术. 这篇博客的主题就是复盘Dvir的绝妙证明(堪称proof from the Book)，一窥多项式方法的思想. <br/>
