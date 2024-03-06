@@ -162,4 +162,4 @@ $$
 更正：经一位朋友提醒，Dvir的证明已经被收入*The Proof from the Book*（中译本《数学天书中的证明》）第五版，所以导言部分“堪称proof from the book”已经过时了(笑)
 
 <br/>
-[<font size="3">少女祈祷中...</font>](https://senyuyangpdelearner.github.io/)
+[少女祈祷中...](https://senyuyangpdelearner.github.io/blog)
